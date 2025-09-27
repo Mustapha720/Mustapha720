@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: HTML5, CSS3, JavaScript, Python
-- **Frameworks & Tools**: Firebase, Git  
+- **Frameworks & Tools**: Firebase, Git, Bootstrap 
 - **Databases**: MySQL with Python
 - **Other Interests**: Regex, APIs, Game Development  
 
