@@ -20,6 +20,14 @@
 
 ---
 
+### 🌟 Featured Projects
+
+- [Contentful](https://github.com/Mustapha720/Project)
+- [Calculator](https://github.com/Mustapha720/Calculator)
+- [AI](https://github.com/Mustapha720/Level_2-Web-development/tree/main/Firebase/Ass)
+
+---
+
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mustapha720&show_icons=true&theme=radical" height="160" />
